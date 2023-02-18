@@ -1,0 +1,10 @@
+.user__card {
+    width: 50vw;
+}
+
+
+@media(max-width: 600px) {
+    .user__card {
+        width: 95vw;
+    }
+}
